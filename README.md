@@ -15,7 +15,7 @@ It is Yash Jain pursuing my Bachelor of Technology with Computer Science Special
         Company's project on an ECommerce Android App
         
 - 🌱 Skills I have...
-        Programming Languages: Java, Python, JavaScript
+-       Programming Languages: Java, Python, JavaScript
         Frameworks & Libraries: Spring Boot, React, Node.js, Express.js
         Cloud & Tools: AWS (EC2, S3, ECS, ECR, Lambda, etc.), Docker, Jenkins, Elastic Search
         Databases: SQL, MySQL, MongoDB
