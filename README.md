@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yash Jain
 
-Backend / Platform Engineer specializing in **Java, Spring Boot, Elasticsearch, Kafka, and AWS** with ~3 years of experience building scalable distributed systems and search platforms.
+Backend Software Engineer specializing in **Java, Spring Boot, Elasticsearch, Kafka, and AWS** with ~3 years of experience building scalable distributed systems and search platforms.
 
 Currently working on **high-performance backend services, AI-powered search systems, and cloud-native microservices**.
 
